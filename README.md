@@ -1,16 +1,14 @@
-### Hi there 👋
 
-<!--
-**Ecenurl/Ecenurl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there,I'm Ecenur :blush:
 
-Here are some ideas to get you started:
+I am studying computer engineering at Kastamonu University .In this process, my most important goal is to improve myself.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<font color="pink">The code is like a joke. It's bad if you have to explain.
+-Cory House
+</font>
+
+<img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" height="200" />
+
+
+
+
