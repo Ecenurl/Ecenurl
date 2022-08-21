@@ -7,7 +7,7 @@ I am studying computer engineering at Kastamonu University .In this process, my 
 >The code is like a joke. It's bad if you have to explain.
 -Cory House
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)]([link](https://github.com/Ecenurl)) 
+![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=https://github.com/Ecenurl)
 
 
 
