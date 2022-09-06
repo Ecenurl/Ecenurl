@@ -12,9 +12,13 @@ I am studying computer engineering at Kastamonu University .In this process, my 
 
 [![My Skills](https://skills.thijs.gg/icons?i=java,html,python,c#)](https://skills.thijs.gg)
 
-[![Github Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=link)](https://www.linkedin.com/in/ecenuryilmaz/) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ecenurl&theme=tokyonight)
+
+
+[![Github Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=link)](https://www.linkedin.com/in/ecenuryilmaz/) 
+
+
 
 
 
