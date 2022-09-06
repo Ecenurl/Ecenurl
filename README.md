@@ -12,6 +12,8 @@ I am studying computer engineering at Kastamonu University .In this process, my 
 
 [![My Skills](https://skills.thijs.gg/icons?i=java,html,python,c#)](https://skills.thijs.gg)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-Ecenurl&theme=dark&background=000000)](https://git.io/streak-stats)
+
 [![Github Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=link)](https://www.linkedin.com/in/ecenuryilmaz/) 
 
 
