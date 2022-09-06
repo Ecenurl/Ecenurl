@@ -14,7 +14,7 @@ I am studying computer engineering at Kastamonu University .In this process, my 
 
 [![Github Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=link)](https://www.linkedin.com/in/ecenuryilmaz/) 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-Ecenurl)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
